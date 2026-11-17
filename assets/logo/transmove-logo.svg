@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 48" fill="none">
+  <!-- Orange Chevron -->
+  <path d="M4 10H15.5L26.5 24L15.5 38H4L15 24L4 10Z" fill="#FF701C"/>
+  <!-- Blue Chevron -->
+  <path d="M18.5 10H30L41 24L30 38H18.5L29.5 24L18.5 10Z" fill="#1767B5"/>
+  <!-- Brand Name -->
+  <text x="49" y="27" font-family="'Poppins', sans-serif" font-weight="800" font-size="24" fill="#092B49" letter-spacing="-0.5">TransMove</text>
+  <!-- Subtitle -->
+  <text x="50" y="39" font-family="'Poppins', sans-serif" font-weight="600" font-size="7.5" fill="#637184" letter-spacing="1.7">LOGISTICS BEYOND BORDERS</text>
+</svg>

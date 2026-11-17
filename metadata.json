@@ -1,0 +1,6 @@
+{
+  "name": "TransMove Logistics — Global Reach, Local Support",
+  "description": "Reliable, efficient and cost-effective end-to-end logistics, sea freight, air freight, land transportation, warehousing, and supply chain solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
